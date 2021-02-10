@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Link to [Google](https://google.com)
 Use the left arrow to go back!
